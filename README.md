@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello, I am Masato.
+Hello, I am Masato, a computer science student at University of Debrecen.
+<br>
+I was born and grew up in <b>Tokyo, Japan</b>.
 
 
 # 💻 Tech Stack:
