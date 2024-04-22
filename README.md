@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello, I am Masato, a computer science student at University of Debrecen.
 <br>
-<a href="https://24-site.netlify.app/">My latest React project</a>
+<a href="https://24-react-todolist.netlify.app/">My latest React project</a>
 
 
 # 💻 Tech Stack:
