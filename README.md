@@ -1,7 +1,9 @@
 # 💫 About Me:
-Hello, I am Masato, a computer science student at University of Debrecen.
-<br>
-<a href="https://24-react-todolist.netlify.app/">My latest React project</a>
+<p>Hello, I am Masato, a computer science student at University of Debrecen.</p>
+<p>I like cooking, reading and art</p>
+
+
+
 
 
 # 💻 Tech Stack:
