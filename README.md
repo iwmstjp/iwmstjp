@@ -1,6 +1,11 @@
 # 💫 About Me:
 <p>Hello, I am Masato, a computer science student at University of Debrecen.</p>
 <p>I like cooking, reading and art</p>
+<h1>My work</h1>
+<ul>
+  <li><a href="https://24-react-todolist.netlify.app">To Do List</a></li>
+  <li><a href="https://24-react-weather-app.netlify.app">Weather App</a></li>
+</ul>
 
 
 
