@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p>Hello, I am Masato, a computer science student at University of Debrecen.</p>
+<p>A computer student with 2+ years programming experience</p>
 <p>I like cooking, reading and art</p>
 <h1>My work</h1>
 <ul>
