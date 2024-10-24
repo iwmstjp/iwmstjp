@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <p>A computer student with 2+ years programming experience</p>
 <p>I like cooking, reading and art</p>
 <h1>My work</h1>
